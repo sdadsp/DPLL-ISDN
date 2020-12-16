@@ -14,4 +14,4 @@ A brief try of implementing DPLL for a data terminal in the ISDN BRI network
 3. Yukawa J., Mori S. A binary quantized digital phase-locked loop//IECE. – 1973. – Vol. 56-A, №12. – P. 79-85.
 
 
-![Block Diagram](Docs/block_diagram.png"Block diagram")
+![alt text](Docs/block_diagram.png "Block diagram")
